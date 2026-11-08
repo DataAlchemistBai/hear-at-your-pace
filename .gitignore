@@ -1,0 +1,16 @@
+.test-tools/
+node_modules/
+outputs/
+*.log
+.openai/
+.env
+.env.*
+!.env.example
+*.tar
+*.zip
+*.webm
+*.m4a
+*.mp3
+hear-journal-*.json
+.DS_Store
+Thumbs.db
